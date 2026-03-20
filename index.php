@@ -92,7 +92,6 @@ function pokazSekcje(id) {
     document.getElementById(id).classList.add('aktywna');
 }
 
-// domyślnie pokaż pierwszą sekcję
 window.onload = function() {
     pokazSekcje('dodaj');
 }
