@@ -1,0 +1,16 @@
+.sekcja {
+    display: none;
+}
+
+.sekcja.aktywna {
+    display: block;
+}
+
+nav button {
+    margin-right: 10px;
+    padding: 8px;
+    cursor: pointer;
+}
+#kom {
+    color:crimson;
+}
